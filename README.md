@@ -33,7 +33,4 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.instagram.com/serendipity.seeeker" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Toufik20-cyber&show_icons=true&locale=en" alt="Toufik20-cyber" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Toufik20-cyber&" alt="Toufik20-cyber" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Toufik20-cyber&show_icons=true&locale=en&layout=compact" alt="Toufik20-cyber" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Toufik20-cyber" alt="Toufik20-cyber" /></a></p>
+
